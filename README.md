@@ -22,20 +22,6 @@ A Machine Learning web application built using **Python**, **Scikit-learn**, and
 
 ---
 
-## 📂 Project Structure
-
-```
-House-Price-Prediction/
-│── app.py
-│── train_model.py
-│── house_p.csv
-│── house_price_model.pkl
-│── requirements.txt
-│── README.md
-```
-
----
-
 ## 📦 Installation
 
 Clone the repository
@@ -61,14 +47,6 @@ Run the application
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 📸 Screenshots
-
-(Add screenshots here after uploading)
-
----
 
 ## 🎯 Future Improvements
 
